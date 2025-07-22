@@ -23,6 +23,7 @@ Collaborative 2nd-year university project to build a health-monitoring platform.
 Developed responsive user interfaces and contributed to frontend architecture for enhanced user experience.
 
 > *Repository is private and owned by [gz02](https://github.com/gz02), visible only to collaborators.*
+> https://github.com/gz02/careify
 
 <!--
 **RealClarkey/RealClarkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
