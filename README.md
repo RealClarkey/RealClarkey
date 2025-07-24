@@ -1,10 +1,10 @@
 # Hi, I'm Leigh 👋
 
-I bring **16 years of experience** in electrical installation and engineering, having worked with leading companies such as **Jaguar Land Rover**, **Amazon**, and **BMW**. My background includes maintaining production equipment, working with industrial robots (ABB), and ensuring smooth manufacturing operations.
-
 Recently, I shifted my focus to software development, driven by a passion to build innovative solutions and deepen my technical skills. I graduated with a **First-Class Honours** in **BSc (Hons) Computer Science** with a final grade of **92.33%**.
 
 I’m enthusiastic about growing my expertise in software engineering and excited to follow this path into a rewarding career.
+
+I bring **16 years of experience** in electrical installation and engineering, having worked with leading companies such as **Jaguar Land Rover**, **Amazon**, and **BMW**. My background includes maintaining production equipment, working with industrial robots (ABB), and ensuring smooth manufacturing operations.
 
 ---
 
